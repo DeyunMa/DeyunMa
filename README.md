@@ -1,14 +1,5 @@
 <div align="center">
 
-```text
-██╗  ██╗ ███╗   ███╗
-██║ ██╔╝ ████╗ ████║
-█████╔╝  ██╔████╔██║
-██╔═██╗  ██║╚██╔╝██║
-██║  ██╗ ██║ ╚═╝ ██║
-╚═╝  ╚═╝ ╚═╝     ╚═╝
-```
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=00FF9C&center=true&vCenter=true&width=840&lines=BOOTING+PROFILE...;Frontend+Engineer+%2F%2F+TypeScript+Operator;Vue+%2B+React+%2B+AI+Workflow+Builder;Signal+strong.+Shipping+in+progress." alt="Typing SVG" />
 
 <p>
