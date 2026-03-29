@@ -43,14 +43,6 @@ status: online and iterating
 
 ---
 
-## `signal.board`
-
-<div align="center">
-  <img src="./assets/github-signal.svg" width="49%" alt="GitHub Signal Card" />
-  <img src="./assets/wakatime-signal.svg" width="49%" alt="WakaTime Signal Card" />
-</div>
-
----
 
 ## `mission.log`
 
@@ -60,4 +52,11 @@ I care about code that still makes sense after the excitement wears off.
 Current direction: frontend depth -> full product thinking -> AI-native tools.
 ```
 
+## `signal.board`
 
+<div align="center">
+  <img src="./assets/github-signal.svg" width="49%" alt="GitHub Signal Card" />
+  <img src="./assets/wakatime-signal.svg" width="49%" alt="WakaTime Signal Card" />
+</div>
+
+---
