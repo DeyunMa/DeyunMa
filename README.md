@@ -12,13 +12,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=00FF9C&center=true&vCenter=true&width=840&lines=BOOTING+PROFILE...;Frontend+Engineer+%2F%2F+TypeScript+Operator;Vue+%2B+React+%2B+AI+Workflow+Builder;Signal+strong.+Shipping+in+progress." alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/knightmdy">
-    <img src="https://img.shields.io/badge/ID-knightmdy-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=000000" alt="GitHub ID" />
+  <a href="https://github.com/DeyunMa">
+    <img src="https://img.shields.io/badge/ID-DeyunMa-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=000000" alt="GitHub ID" />
   </a>
-  <a href="https://github.com/knightmdy?tab=repositories">
-    <img src="https://img.shields.io/github/stars/knightmdy?style=for-the-badge&logo=github&label=STAR%20COUNT&color=00FF9C&labelColor=000000" alt="GitHub Stars" />
+  <a href="https://github.com/DeyunMa?tab=followers">
+    <img src="https://img.shields.io/github/followers/DeyunMa?style=for-the-badge&label=FOLLOWERS&color=00FF9C&labelColor=000000" alt="GitHub Followers" />
   </a>
-  <a href="https://wakatime.com/@knightmdy">
+  <a href="https://wakatime.com/@DeyunMa">
     <img src="https://wakatime.com/badge/user/1b9755ac-e606-4103-870b-93340b875a41.svg" alt="WakaTime" />
   </a>
 </p>
@@ -31,7 +31,7 @@
 
 ```yaml
 operator: K-M
-handle: knightmdy
+handle: DeyunMa
 location: Xiongan, China
 role: Frontend developer in training
 signal:
@@ -40,6 +40,15 @@ signal:
   - Building toward AI-powered applications
 status: online and iterating
 ```
+
+---
+
+## `signal.board`
+
+<div align="center">
+  <img src="./assets/github-signal.svg" width="49%" alt="GitHub Signal Card" />
+  <img src="./assets/wakatime-signal.svg" width="49%" alt="WakaTime Signal Card" />
+</div>
 
 ---
 
@@ -116,7 +125,7 @@ if you build on the web, care about DX, or experiment with AI products,
 we will probably have something useful to talk about.
 ```
 
-[![Followers](https://img.shields.io/github/followers/knightmdy?style=for-the-badge&label=FOLLOWERS&color=00FF9C&labelColor=000000)](https://github.com/knightmdy)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=knightmdy.knightmdy&left_color=000000&right_color=00FF9C&left_text=visitors)
+[![Followers](https://img.shields.io/github/followers/DeyunMa?style=for-the-badge&label=FOLLOWERS&color=00FF9C&labelColor=000000)](https://github.com/DeyunMa)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DeyunMa.DeyunMa&left_color=000000&right_color=00FF9C&left_text=visitors)
 
 </div>
