@@ -1,134 +1,122 @@
 <div align="center">
 
-```
-██╗  ██╗    ███╗   ███╗
-██║ ██╔╝    ████╗ ████║
-█████╔╝  ─  ██╔████╔██║
-██╔═██╗     ██║╚██╔╝██║
-██║  ██╗    ██║ ╚═╝ ██║
-╚═╝  ╚═╝    ╚═╝     ╚═╝
+```text
+██╗  ██╗ ███╗   ███╗
+██║ ██╔╝ ████╗ ████║
+█████╔╝  ██╔████╔██║
+██╔═██╗  ██║╚██╔╝██║
+██║  ██╗ ██║ ╚═╝ ██║
+╚═╝  ╚═╝ ╚═╝     ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Frontend+Dev+%7C+DSA+Grinder+%7C+AI+Explorer;Vue+%2F+React+%2F+TypeScript+Learner;init+%E2%80%94+commit+%E2%80%94+push+%E2%80%94+repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=00FF9C&center=true&vCenter=true&width=840&lines=BOOTING+PROFILE...;Frontend+Engineer+%2F%2F+TypeScript+Operator;Vue+%2B+React+%2B+AI+Workflow+Builder;Signal+strong.+Shipping+in+progress." alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/knightmdy">
+    <img src="https://img.shields.io/badge/ID-knightmdy-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=000000" alt="GitHub ID" />
+  </a>
+  <a href="https://github.com/knightmdy?tab=repositories">
+    <img src="https://img.shields.io/github/stars/knightmdy?style=for-the-badge&logo=github&label=STAR%20COUNT&color=00FF9C&labelColor=000000" alt="GitHub Stars" />
+  </a>
+  <a href="https://wakatime.com/@knightmdy">
+    <img src="https://wakatime.com/badge/user/1b9755ac-e606-4103-870b-93340b875a41.svg" alt="WakaTime" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## `~ $ cat about.me`
+## `system.scan`
 
 ```yaml
-whoami:    K-M (knightmdy)
-location:  Hebei · Xiongan, China
-status:    CS Undergraduate 🎓
-interests:
-  - Data Structures & Algorithms
-  - Frontend Engineering (Vue · React · TypeScript)
-  - Artificial Intelligence & Machine Learning
-mission:   Full-Stack Engineer → AI-Powered Product Builder
+operator: K-M
+handle: knightmdy
+location: Xiongan, China
+role: Frontend developer in training
+signal:
+  - TypeScript-first mindset
+  - Strong interest in product-facing engineering
+  - Building toward AI-powered applications
+status: online and iterating
 ```
 
 ---
 
-## `~ $ ls ./socials`
+## `mission.log`
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-knightmdy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/knightmdy)
-
-</div>
-
----
-
-## `~ $ cat ./skills/stack.json`
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+```text
+I like interfaces with clear structure, sharp feedback, and low friction.
+I care about code that still makes sense after the excitement wears off.
+Current direction: frontend depth -> full product thinking -> AI-native tools.
+```
 
 ---
 
-## `~ $ curl github.com/stats/knightmdy`
+## `loadout`
 
-<div align="center">
+```text
+LANGUAGES
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=knightmdy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" alt="GitHub Stats" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightmdy&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+```text
+FRONTEND
+```
 
-<img src="https://streak-stats.demolab.com?user=knightmdy&hide_border=true&background=0d1117&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=00FF41" alt="GitHub Streak" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 
-</div>
+```text
+TOOLS
+```
 
----
-
-## `~ $ cat ./activity/graph.log`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=knightmdy&bg_color=0d1117&color=00FF41&line=00c940&point=FFFFFF&hide_border=true)](https://github.com/knightmdy)
-
-</div>
-
----
-
-## `~ $ git log --oneline ./projects`
-
-| Commit | Project | Stack | Status |
-|--------|---------|-------|--------|
-| `a1b2c3d` | Frontend Admin Dashboard | Vue 3 + TypeScript + Pinia | `[IN DEV]` |
-| `e4f5g6h` | Full-Stack CRUD App | Node.js + Vue + REST API | `[SHIPPED]` |
-| `i7j8k9l` | ML Experiments | Python + NumPy + Matplotlib | `[LEARNING]` |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 
 ---
 
-## `~ $ cat ./roadmap/2026.md`
+## `active.threads`
+
+```bash
+> building cleaner frontend architecture
+> learning React with stronger engineering discipline
+> turning small ideas into usable side projects
+> testing where AI actually improves the workflow
+```
+
+---
+
+## `core.values`
 
 ```diff
-+ [x] Build Vue 3 Composition API projects
-+ [x] Ship a full-stack CRUD application
-+ [x] Get comfortable with Linux & Git workflows
-- [ ] Ship 3 production-ready frontend projects
-- [ ] Deep dive into React ecosystem
-- [ ] TypeScript — strict mode proficiency
-- [ ] First open source contribution (PR merged)
-- [ ] Launch a personal tech blog
-- [ ] Train and deploy a small ML model
++ Build things that feel fast
++ Keep code readable under pressure
++ Prefer shipping over hoarding ideas
++ Use AI to increase leverage, not noise
 ```
 
 ---
 
-## `~ $ ./connect.sh --handshake`
+## `network.handshake`
 
 <div align="center">
 
-*Open to collaboration, code reviews, and learning together.*
-*If you find something interesting here — star it, fork it, improve it.*
+```text
+if you build on the web, care about DX, or experiment with AI products,
+we will probably have something useful to talk about.
+```
 
-`> console.log("Hello, World! — knightmdy")`
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=knightmdy.knightmdy&left_color=%230d1117&right_color=%2300c940&left_text=visitors)
-[![GitHub followers](https://img.shields.io/github/followers/knightmdy?style=flat&color=00c940&labelColor=0d1117&label=followers)](https://github.com/knightmdy)
+[![Followers](https://img.shields.io/github/followers/knightmdy?style=for-the-badge&label=FOLLOWERS&color=00FF9C&labelColor=000000)](https://github.com/knightmdy)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=knightmdy.knightmdy&left_color=000000&right_color=00FF9C&left_text=visitors)
 
 </div>
